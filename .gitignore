@@ -3,6 +3,7 @@ node_modules/**/*
 .expo-shared/*
 npm-debug.*
 package-lock.json
+git_cheat_sheet.pdf
 *.jks
 *.p8
 *.p12
